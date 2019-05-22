@@ -1,7 +1,1 @@
-fgsdgsdfs
-fsfjksjkfsk
-add work log; comment 
-Another commit added to SKP-3 branch without smart commit; lets see if that appears in JIRA
-Adding 3rd commit with a smart commit comment on SKP-2 and SKP-3; lets see what happens next
-Again
-Adding comment only this time
+creating new branch and trying to link it to two JIRA stories through smart commit
