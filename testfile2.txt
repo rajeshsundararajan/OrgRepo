@@ -1,1 +1,2 @@
 creating new branch and trying to link it to two JIRA stories through smart commit
+lets create another branch and name it skp-2
